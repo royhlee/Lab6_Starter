@@ -1,4 +1,2 @@
-# Lab 6 - Starter
+# Lab 6
 [Link to Site](https://royhlee.github.io/Lab6_Starter/)
-
-Group: Roy
